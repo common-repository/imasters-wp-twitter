@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iMasters WP Twitter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-19 17:59-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: w3invent <daniel.w3invent@gmail.com>\n"
+"Language-Team: Apiki <leandro@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../imasters-wp-twitter-settings.php:14
+msgid "Settings Updated"
+msgstr "Configurações atualizadas"
+
+#: ../../imasters-wp-twitter-settings.php:19
+#: ../../imasters-wp-twitter.php:73
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../../imasters-wp-twitter-settings.php:24
+msgid "Retweet Button:"
+msgstr "Botão de Retweet"
+
+#: ../../imasters-wp-twitter-settings.php:28
+msgid "No"
+msgstr "Não"
+
+#: ../../imasters-wp-twitter-settings.php:29
+msgid "Yes"
+msgstr "Sim"
+
+#: ../../imasters-wp-twitter-settings.php:31
+msgid "Retweet button under the post that sends short post url to twitter"
+msgstr "Botão de Retweet abaixo do post para enviar a url encurtada para o Twitter"
+
+#: ../../imasters-wp-twitter-settings.php:36
+msgid "Twitter Username"
+msgstr "Nome de Usuário"
+
+#: ../../imasters-wp-twitter-settings.php:45
+msgid "Twitter Password"
+msgstr "Senha do Usuário"
+
+#: ../../imasters-wp-twitter-settings.php:49
+msgid "(If informed, sends a message for Twitter when a post is published)"
+msgstr "(Se informado, envia uma mensagem para o Twitter quando um post é publicado)"
+
+#: ../../imasters-wp-twitter-settings.php:56
+msgid "Save"
+msgstr "Salvar"
+
+#: ../../imasters-wp-twitter-uninstall.php:16
+#: ../../imasters-wp-twitter-uninstall.php:20
+#: ../../imasters-wp-twitter-uninstall.php:55
+#: ../../imasters-wp-twitter-uninstall.php:90
+msgid "Uninstall iMasters WP Twitter"
+msgstr "Desinstalar  iMasters WP Twitter"
+
+#: ../../imasters-wp-twitter-uninstall.php:22
+msgid "Options"
+msgstr "Options"
+
+#: ../../imasters-wp-twitter-uninstall.php:27
+#, php-format
+msgid "<li>Option '%s' has been deleted.</li>"
+msgstr "<li>Option '%s' foi deletada com sucesso.</li>"
+
+#: ../../imasters-wp-twitter-uninstall.php:30
+#, php-format
+msgid "<li>Error deleting Option '%s'.</li>"
+msgstr "<li>Erro ao deletar a option '%s'.</li>"
+
+#: ../../imasters-wp-twitter-uninstall.php:47
+#, php-format
+msgid "<a href=\"%s\" class=\"button-primary\">Deactivate iMasters WP Twitter</a> Disable that plugin to conclude the uninstalling."
+msgstr "<a href=\"%s\" class=\"button-primary\">Desativar iMasters WP Twitter</a> Desative esse plugin para concluir a desinstalação."
+
+#: ../../imasters-wp-twitter-uninstall.php:56
+msgid "Uninstaling this plugin the options used by iMasters WP Twitter will be removed."
+msgstr "Desinstalando esse plugin as options usadas por ele serão removidas."
+
+#: ../../imasters-wp-twitter-uninstall.php:58
+#: ../../imasters-wp-twitter.php:204
+#: ../../imasters-wp-twitter.php:207
+msgid "Warning:"
+msgstr "Atenção:"
+
+#: ../../imasters-wp-twitter-uninstall.php:59
+msgid "This process is irreversible. We suggest that you do a database backup first."
+msgstr "Esse processo é irreversível. Nós recomendamos que faça backup antes."
+
+#: ../../imasters-wp-twitter-uninstall.php:64
+msgid "The following WordPress Options will be deleted:"
+msgstr "As seguintes Options do Wordpress serão deletadas:"
+
+#: ../../imasters-wp-twitter-uninstall.php:71
+msgid "WordPress Options"
+msgstr "WordPress Options"
+
+#: ../../imasters-wp-twitter-uninstall.php:87
+msgid "Yes. Uninstall iMasters WP Twitter now"
+msgstr "Desinstalar  iMasters WP Twitter agora"
+
+#: ../../imasters-wp-twitter.php:74
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+#: ../../imasters-wp-twitter.php:119
+msgid "Retweet this post"
+msgstr "Botão de Retweet"
+
+#: ../../imasters-wp-twitter.php:204
+#: ../../imasters-wp-twitter.php:207
+msgid "Change the User Name"
+msgstr "Modifique o Nome de Usuário"
+
+#: ../../imasters-wp-twitter.php:204
+#: ../../imasters-wp-twitter.php:207
+msgid "Plugin Settings"
+msgstr "Configurações do Plugin"
+
+#~ msgid "my-twitter-account"
+#~ msgstr "meu-usuario-no-twitter"
+#~ msgid "(For send twitter message when publish a new post)"
+#~ msgstr "(Envia uma mensagem para o Twitter quando um post é publicado)"
+#~ msgid "NOTE:"
+#~ msgstr "NOTA:"
+#~ msgid ""
+#~ "The Options by iMasters WP Retweet<strong> WILL </strong> be deleted."
+#~ msgstr ""
+#~ "As Options de iMasters WP Retweet<strong> SERÃO </strong> deletadas."
+#~ msgid "WARNING:"
+#~ msgstr "ATENÇÃO"
+#~ msgid ""
+#~ "Once uninstalled, this cannot be undone. You should use a Database Backup "
+#~ "plugin of WordPress to back up all the data first."
+#~ msgstr "Uma vez desinstalado, não poderá ser desfeito."
+#~ msgid "UNINSTALL iMasters WP Retweet"
+#~ msgstr "DESINSTALAR  iMasters WP Retweet"
+#~ msgid ""
+#~ "You Are About To UNINSTALL iMasters WP Retweet From WordPress.\\nThis "
+#~ "Action Is Not Reversible.\\n\\n Choose [Cancel] To Stop, [OK] To "
+#~ "Uninstall."
+#~ msgstr ""
+#~ "Você está a ponto de desinstalar  iMasters WP Retweet do WordPress."
+#~ "\\nIsso não é reversível.\\n\\n Escolha [Cancel] para cancelar, [OK] para "
+#~ "Desinstalar."
+#~ msgid "Button below the post:"
+#~ msgstr "Botão abaixo do post"
+#~ msgid "(Optional for who use just retweet)"
+#~ msgstr "(Opcional para quem usa apenas o botão de retweet)"
+#~ msgid "It determines the user name from twitter"
+#~ msgstr "Determina o nome do usuário do Twitter"
+
